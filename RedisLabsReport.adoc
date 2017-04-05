@@ -10,9 +10,9 @@
 :figure-caption: 
 
 = Radis Enterprise Pack
-=== demo2項目追加
 == 前提と目的
 === 定義
+demo2項目追加
 Redis(e)   = Redis Enterprise
 Radis      = Original Redis 
 Redis Labs = Redis , Memcachedの商用ソフトの開発・サポートを提供する会社
