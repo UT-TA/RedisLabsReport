@@ -10,7 +10,7 @@
 :figure-caption: 
 
 = Radis Enterprise Pack
-== demo項目追加
+== demo2項目追加
 == 前提と目的
 === 定義
 Redis(e)   = Redis Enterprise
